@@ -18,6 +18,10 @@ class MainTabBarViewController: UITabBarController {
         let searchViewController = UINavigationController(rootViewController: SearchViewController())
         let downloadViewController = UINavigationController(rootViewController: DownloadsViewController())
         
+        homeViewController.tabBarItem.image = UIImage(systemName: "house")
+        upcomingViewController.tabBarItem.image = UIImage(systemName: "play.circle")
+        searchViewController.tabBarItem.image = UIImage(systemName: "magnifyingglass")
+        downloadViewController.tabBarItem.image = UIImage(systemName: "arrow.down.to.line")
         
         setViewControllers([homeViewController, upcomingViewController, searchViewController, downloadViewController], animated: true)
     }
