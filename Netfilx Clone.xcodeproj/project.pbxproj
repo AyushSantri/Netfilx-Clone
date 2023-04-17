@@ -15,6 +15,7 @@
 		BF43D66629EDBA92004A49AC /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66529EDBA92004A49AC /* HomeViewController.swift */; };
 		BF43D66829EDBABD004A49AC /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66729EDBABD004A49AC /* UpcomingViewController.swift */; };
 		BF43D66A29EDBAE0004A49AC /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66929EDBAE0004A49AC /* SearchViewController.swift */; };
+		BF43D66C29EDBB37004A49AC /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BF43D66529EDBA92004A49AC /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		BF43D66729EDBABD004A49AC /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		BF43D66929EDBAE0004A49AC /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				BF43D66529EDBA92004A49AC /* HomeViewController.swift */,
 				BF43D66729EDBABD004A49AC /* UpcomingViewController.swift */,
 				BF43D66929EDBAE0004A49AC /* SearchViewController.swift */,
+				BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			files = (
 				BF43D66A29EDBAE0004A49AC /* SearchViewController.swift in Sources */,
 				BF43D65529EDB6F1004A49AC /* MainTabBarViewController.swift in Sources */,
+				BF43D66C29EDBB37004A49AC /* DownloadsViewController.swift in Sources */,
 				BF43D65129EDB6F1004A49AC /* AppDelegate.swift in Sources */,
 				BF43D65329EDB6F1004A49AC /* SceneDelegate.swift in Sources */,
 				BF43D66829EDBABD004A49AC /* UpcomingViewController.swift in Sources */,
