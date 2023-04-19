@@ -16,6 +16,7 @@
 		BF43D66829EDBABD004A49AC /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66729EDBABD004A49AC /* UpcomingViewController.swift */; };
 		BF43D66A29EDBAE0004A49AC /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66929EDBAE0004A49AC /* SearchViewController.swift */; };
 		BF43D66C29EDBB37004A49AC /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */; };
+		BF8494FF29F05B1600084752 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF8494FE29F05B1600084752 /* CollectionViewTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		BF43D66729EDBABD004A49AC /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		BF43D66929EDBAE0004A49AC /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
+		BF8494FE29F05B1600084752 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		BF8494FB29F05A8900084752 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BF8494FE29F05B1600084752 /* CollectionViewTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			files = (
 				BF43D66A29EDBAE0004A49AC /* SearchViewController.swift in Sources */,
 				BF43D65529EDB6F1004A49AC /* MainTabBarViewController.swift in Sources */,
+				BF8494FF29F05B1600084752 /* CollectionViewTableViewCell.swift in Sources */,
 				BF43D66C29EDBB37004A49AC /* DownloadsViewController.swift in Sources */,
 				BF43D65129EDB6F1004A49AC /* AppDelegate.swift in Sources */,
 				BF43D65329EDB6F1004A49AC /* SceneDelegate.swift in Sources */,
