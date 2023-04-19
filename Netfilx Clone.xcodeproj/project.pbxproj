@@ -62,6 +62,9 @@
 		BF43D64F29EDB6F1004A49AC /* Netfilx Clone */ = {
 			isa = PBXGroup;
 			children = (
+				BF8494FD29F05A9C00084752 /* ViewModels */,
+				BF8494FC29F05A9100084752 /* Models */,
+				BF8494FB29F05A8900084752 /* Views */,
 				BF43D66429EDBA7B004A49AC /* Controllers */,
 				BF43D65029EDB6F1004A49AC /* AppDelegate.swift */,
 				BF43D65229EDB6F1004A49AC /* SceneDelegate.swift */,
@@ -82,6 +85,27 @@
 				BF43D66B29EDBB37004A49AC /* DownloadsViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		BF8494FB29F05A8900084752 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BF8494FC29F05A9100084752 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		BF8494FD29F05A9C00084752 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
